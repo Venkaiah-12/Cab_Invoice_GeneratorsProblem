@@ -58,5 +58,27 @@ namespace CabInvoiceGenerators
             double avgfare = totalfare / totalrides ;
             return avgfare;
         }
+        /// <summary>
+        ///   <para>checking the userid and returning the list</para>
+        ///   <para></para>
+        /// </summary>
+        /// <param name="keyValuePairs"></param>
+        /// <param name="userid"></param>
+        /// <returns></returns>
+        public List<Ride> GivenUserId(Dictionary<string,Ride[]> keyValuePairs,string userid)
+        {
+            List<Ride> rides = new List<Ride>(); 
+            foreach(var data in keyValuePairs)
+            {
+                if(data.Key == userid)
+                {
+                    foreach(var item in data.Value)
+                    {
+                        rides.Add(new Ride(item.distance,item.time)); 
+                    }
+                }
+            }
+            return rides;
+        }
     }
 }
