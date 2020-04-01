@@ -5322,11 +5322,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\CabInvoiceGenerators\\InvoiceNUnitTestProject\\InvoiceNUnitTestProject.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\Documents\\CABServices\\CabInvoiceGenerators\\InvoiceNUnitTestProject\\InvoiceNUnitTestProject.csproj",
       "projectName": "InvoiceNUnitTestProject",
-      "projectPath": "C:\\Users\\LENOVO\\source\\repos\\CabInvoiceGenerators\\InvoiceNUnitTestProject\\InvoiceNUnitTestProject.csproj",
+      "projectPath": "C:\\Users\\LENOVO\\Documents\\CABServices\\CabInvoiceGenerators\\InvoiceNUnitTestProject\\InvoiceNUnitTestProject.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\source\\repos\\CabInvoiceGenerators\\InvoiceNUnitTestProject\\obj\\",
+      "outputPath": "C:\\Users\\LENOVO\\Documents\\CABServices\\CabInvoiceGenerators\\InvoiceNUnitTestProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5342,8 +5342,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\LENOVO\\source\\repos\\CabInvoiceGenerators\\CabInvoiceGenerators\\CabInvoiceGenerators.csproj": {
-              "projectPath": "C:\\Users\\LENOVO\\source\\repos\\CabInvoiceGenerators\\CabInvoiceGenerators\\CabInvoiceGenerators.csproj"
+            "C:\\Users\\LENOVO\\Documents\\CABServices\\CabInvoiceGenerators\\CabInvoiceGenerators\\CabInvoiceGenerators.csproj": {
+              "projectPath": "C:\\Users\\LENOVO\\Documents\\CABServices\\CabInvoiceGenerators\\CabInvoiceGenerators\\CabInvoiceGenerators.csproj"
             }
           }
         }

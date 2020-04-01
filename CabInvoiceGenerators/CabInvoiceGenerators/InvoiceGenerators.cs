@@ -11,15 +11,27 @@ namespace CabInvoiceGenerators
     public class InvoiceGenerators
     {
         /// <summary>
-        /// Invoices the specified distance.
+        /// Invoices the calculate fare.
         /// </summary>
         /// <param name="distance">The distance.</param>
         /// <param name="time">The time.</param>
         /// <returns></returns>
-        public double Invoice(int distance, int time)
+       public double InvoiceCalculateFare(double distance, double time)
         {
             double totalfare = distance * InvoiceModel.MINIMUM_COST_PER_KILOMETER1 + time;
             return Math.Max(totalfare, InvoiceModel.MINIMUM_FARE1);
+        }
+        public double totalFare(Ride[] Rides)
+        {
+            double totalfare = 0;
+            InvoiceGenerators invoiceGenerators = new InvoiceGenerators();
+            foreach(var ride in Rides)
+            {
+                totalfare += invoiceGenerators.InvoiceCalculateFare(ride.distance, ride.time);
+            }
+            return totalfare;
+
+
         }
     }
 }

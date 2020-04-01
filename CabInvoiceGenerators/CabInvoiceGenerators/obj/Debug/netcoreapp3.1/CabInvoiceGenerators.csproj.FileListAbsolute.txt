@@ -11,3 +11,16 @@ C:\Users\LENOVO\source\repos\CabInvoiceGenerators\CabInvoiceGenerators\bin\Debug
 C:\Users\LENOVO\source\repos\CabInvoiceGenerators\CabInvoiceGenerators\bin\Debug\netcoreapp3.1\CabInvoiceGenerators.pdb
 C:\Users\LENOVO\source\repos\CabInvoiceGenerators\CabInvoiceGenerators\obj\Debug\netcoreapp3.1\CabInvoiceGenerators.dll
 C:\Users\LENOVO\source\repos\CabInvoiceGenerators\CabInvoiceGenerators\obj\Debug\netcoreapp3.1\CabInvoiceGenerators.pdb
+C:\Users\LENOVO\Documents\CABServices\CabInvoiceGenerators\CabInvoiceGenerators\bin\Debug\netcoreapp3.1\CabInvoiceGenerators.exe
+C:\Users\LENOVO\Documents\CABServices\CabInvoiceGenerators\CabInvoiceGenerators\bin\Debug\netcoreapp3.1\CabInvoiceGenerators.deps.json
+C:\Users\LENOVO\Documents\CABServices\CabInvoiceGenerators\CabInvoiceGenerators\bin\Debug\netcoreapp3.1\CabInvoiceGenerators.runtimeconfig.json
+C:\Users\LENOVO\Documents\CABServices\CabInvoiceGenerators\CabInvoiceGenerators\bin\Debug\netcoreapp3.1\CabInvoiceGenerators.runtimeconfig.dev.json
+C:\Users\LENOVO\Documents\CABServices\CabInvoiceGenerators\CabInvoiceGenerators\bin\Debug\netcoreapp3.1\CabInvoiceGenerators.dll
+C:\Users\LENOVO\Documents\CABServices\CabInvoiceGenerators\CabInvoiceGenerators\bin\Debug\netcoreapp3.1\CabInvoiceGenerators.pdb
+C:\Users\LENOVO\Documents\CABServices\CabInvoiceGenerators\CabInvoiceGenerators\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\LENOVO\Documents\CABServices\CabInvoiceGenerators\CabInvoiceGenerators\obj\Debug\netcoreapp3.1\CabInvoiceGenerators.csprojAssemblyReference.cache
+C:\Users\LENOVO\Documents\CABServices\CabInvoiceGenerators\CabInvoiceGenerators\obj\Debug\netcoreapp3.1\CabInvoiceGenerators.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\CABServices\CabInvoiceGenerators\CabInvoiceGenerators\obj\Debug\netcoreapp3.1\CabInvoiceGenerators.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\CABServices\CabInvoiceGenerators\CabInvoiceGenerators\obj\Debug\netcoreapp3.1\CabInvoiceGenerators.csproj.CopyComplete
+C:\Users\LENOVO\Documents\CABServices\CabInvoiceGenerators\CabInvoiceGenerators\obj\Debug\netcoreapp3.1\CabInvoiceGenerators.dll
+C:\Users\LENOVO\Documents\CABServices\CabInvoiceGenerators\CabInvoiceGenerators\obj\Debug\netcoreapp3.1\CabInvoiceGenerators.pdb
