@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\Documents\\CABServices\\TDDQualityMeasurement\\TDDQualityMeasurement\\TDDQualityMeasurement.csproj": {}
+    "C:\\Users\\LENOVO\\Documents\\New folder\\TDDQualityMeasurement\\TDDQualityMeasurement\\TDDQualityMeasurement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\Documents\\CABServices\\TDDQualityMeasurement\\TDDQualityMeasurement\\TDDQualityMeasurement.csproj": {
+    "C:\\Users\\LENOVO\\Documents\\New folder\\TDDQualityMeasurement\\TDDQualityMeasurement\\TDDQualityMeasurement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\Documents\\CABServices\\TDDQualityMeasurement\\TDDQualityMeasurement\\TDDQualityMeasurement.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Documents\\New folder\\TDDQualityMeasurement\\TDDQualityMeasurement\\TDDQualityMeasurement.csproj",
         "projectName": "TDDQualityMeasurement",
-        "projectPath": "C:\\Users\\LENOVO\\Documents\\CABServices\\TDDQualityMeasurement\\TDDQualityMeasurement\\TDDQualityMeasurement.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\Documents\\New folder\\TDDQualityMeasurement\\TDDQualityMeasurement\\TDDQualityMeasurement.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\Documents\\CABServices\\TDDQualityMeasurement\\TDDQualityMeasurement\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\Documents\\New folder\\TDDQualityMeasurement\\TDDQualityMeasurement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",

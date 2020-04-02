@@ -20,3 +20,14 @@ C:\Users\LENOVO\Documents\CABServices\TDDQualityMeasurement\TDDQualityMeasuremen
 C:\Users\LENOVO\Documents\CABServices\TDDQualityMeasurement\TDDQualityMeasurement\obj\Debug\netcoreapp3.1\TDDQualityMeasurement.AssemblyInfo.cs
 C:\Users\LENOVO\Documents\CABServices\TDDQualityMeasurement\TDDQualityMeasurement\obj\Debug\netcoreapp3.1\TDDQualityMeasurement.dll
 C:\Users\LENOVO\Documents\CABServices\TDDQualityMeasurement\TDDQualityMeasurement\obj\Debug\netcoreapp3.1\TDDQualityMeasurement.pdb
+C:\Users\LENOVO\Documents\New folder\TDDQualityMeasurement\TDDQualityMeasurement\bin\Debug\netcoreapp3.1\TDDQualityMeasurement.exe
+C:\Users\LENOVO\Documents\New folder\TDDQualityMeasurement\TDDQualityMeasurement\bin\Debug\netcoreapp3.1\TDDQualityMeasurement.deps.json
+C:\Users\LENOVO\Documents\New folder\TDDQualityMeasurement\TDDQualityMeasurement\bin\Debug\netcoreapp3.1\TDDQualityMeasurement.runtimeconfig.json
+C:\Users\LENOVO\Documents\New folder\TDDQualityMeasurement\TDDQualityMeasurement\bin\Debug\netcoreapp3.1\TDDQualityMeasurement.runtimeconfig.dev.json
+C:\Users\LENOVO\Documents\New folder\TDDQualityMeasurement\TDDQualityMeasurement\bin\Debug\netcoreapp3.1\TDDQualityMeasurement.dll
+C:\Users\LENOVO\Documents\New folder\TDDQualityMeasurement\TDDQualityMeasurement\bin\Debug\netcoreapp3.1\TDDQualityMeasurement.pdb
+C:\Users\LENOVO\Documents\New folder\TDDQualityMeasurement\TDDQualityMeasurement\obj\Debug\netcoreapp3.1\TDDQualityMeasurement.csprojAssemblyReference.cache
+C:\Users\LENOVO\Documents\New folder\TDDQualityMeasurement\TDDQualityMeasurement\obj\Debug\netcoreapp3.1\TDDQualityMeasurement.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\New folder\TDDQualityMeasurement\TDDQualityMeasurement\obj\Debug\netcoreapp3.1\TDDQualityMeasurement.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\New folder\TDDQualityMeasurement\TDDQualityMeasurement\obj\Debug\netcoreapp3.1\TDDQualityMeasurement.dll
+C:\Users\LENOVO\Documents\New folder\TDDQualityMeasurement\TDDQualityMeasurement\obj\Debug\netcoreapp3.1\TDDQualityMeasurement.pdb

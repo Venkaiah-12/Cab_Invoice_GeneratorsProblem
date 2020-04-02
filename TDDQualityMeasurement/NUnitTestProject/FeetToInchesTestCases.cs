@@ -78,5 +78,21 @@ namespace NUnitTestProject
             FeetToInches feettoinches = new FeetToInches();
             Assert.AreEqual(feettoinches.ConvertedFeetToInches(feet, inch), true);
         }
+        [Test]
+        public void GivenFeetValue_Should_ComparewithWrong_InchValue()
+        {
+            int feet = 1;
+            int inch = 1;
+            FeetToInches feettoinches = new FeetToInches();
+            Assert.AreEqual(feettoinches.ConvertedFeetToInches(feet, inch), false);
+        }
+        [Test]
+        public void GivenFeetValue_Should_Comparewith_InchValue_ReturnBoolvalue()
+        {
+            int feet = 1;
+            int inch = 12;
+            FeetToInches feettoinches = new FeetToInches();
+            Assert.AreEqual(feettoinches.ConvertedFeetToInches(feet, inch), true);
+        }
     }
 }
